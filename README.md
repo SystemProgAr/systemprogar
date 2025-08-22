@@ -12,7 +12,7 @@ Diseñamos y desarrollamos páginas web que muestran la esencia de pequeños pro
 ---
 
 ## 🚀 Demo en línea
-👉 [Ver sitio en Netlify](#) _(link se agregará cuando lo publiques)_
+👉 [Ver sitio en Netlify](#)
 
 ---
 
