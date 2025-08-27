@@ -340,6 +340,76 @@ body {
   color: #6b7280;
 }
 
+/* Misión y Visión */
+.mission-vision-section {
+  background-color: #ffffff;
+}
+
+.mission-vision-content {
+  display: grid;
+  gap: 3rem;
+  align-items: start;
+}
+
+@media (min-width: 1024px) {
+  .mission-vision-content {
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+  }
+}
+
+.mission-vision-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mission-vision-image {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  border-radius: 1rem;
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.mission-vision-image:hover {
+  transform: scale(1.02);
+  box-shadow: 0 20px 40px -5px rgba(0, 0, 0, 0.2);
+}
+
+.mission-vision-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.mission-block,
+.vision-block {
+  text-align: left;
+}
+
+@media (max-width: 1023px) {
+  .mission-block,
+  .vision-block {
+    text-align: center;
+  }
+}
+
+.mission-vision-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #4338ca;
+}
+
+.mission-vision-text {
+  font-size: 1rem;
+  line-height: 1.7;
+  color: #374151;
+  text-align: justify;
+}
+
 /* Ideas Section */
 .ideas-section {
   background: linear-gradient(to right, #bbf7d0, #fef3c7, #fecaca);
