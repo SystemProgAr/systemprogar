@@ -12,8 +12,8 @@ Diseñamos y desarrollamos páginas web que muestran la esencia de pequeños pro
 ---
 
 ## 🚀 Demo en línea
-👉 [Ver sitio en Netlify](https://systemprogar-landing.netlify.app)
-
+👉 [Ver sitio en Netlify](https://systemprogar.netlify.app)
+ 
 ---
 
 ## 📌 Servicios principales
@@ -46,5 +46,4 @@ Inspirado en la diversidad de Argentina:
 ## 📌 Cómo usar este proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/PaoBasQA/systemprogar.git
-   https://systemprogar.netlify.app/
+   git clone https://github.com/systemprogar/systemprogar.git
