@@ -46,4 +46,5 @@ Inspirado en la diversidad de Argentina:
 ## 📌 Cómo usar este proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/PaoBasQA/systemprogar-landing.git
+   git clone https://github.com/PaoBasQA/systemprogar.git
+   https://systemprogar.netlify.app/
